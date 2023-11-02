@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Native React
+          Learn Native react
         </a>
       </header>
     </div>
